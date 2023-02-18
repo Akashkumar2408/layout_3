@@ -1,3 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.flex{
+    display: flex;
+}
+#height{
+    height: 30em;
+}
+#height_1{
+height: 15em;
+}
+
+#height_2{
+    height: 18.6em;
+}
+
+
+
+
+
 /*----------------------part 1 img--------------------------*/
 .background_img{
     background-image: url(../img/back.jpg);
@@ -5,6 +28,18 @@
     height: 777px;
     background-size: cover;
     background-repeat: no-repeat;
+    color: white;
+}
+.padding_for{
+
+}
+
+
+.blue_box{
+    width: 3em;
+    height: 0.8em;
+    background-color: rgb(0, 187, 255);
+
 }
 
 
