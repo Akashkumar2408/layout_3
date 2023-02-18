@@ -6,15 +6,16 @@
 .flex{
     display: flex;
 }
-#height{
-    height: 30em;
-}
+
 #height_1{
 height: 15em;
 }
 
 #height_2{
-    height: 18.6em;
+    height: 14.1em;
+}
+#over_flow{
+    overflow: hidden;
 }
 
 
@@ -30,16 +31,125 @@ height: 15em;
     background-repeat: no-repeat;
     color: white;
 }
-.padding_for{
-
-}
 
 
+
+
+
+/*- --------------------block 1-----------------------*/
 .blue_box{
     width: 3em;
     height: 0.8em;
     background-color: rgb(0, 187, 255);
+}
+#text_of_u{
+    font-size: 4em;
+    margin-bottom: -1px;
+}
+.block1_1{
+    background-color: rgba(44, 43, 43, 0.308);
+}
+.padding_for_bloack{
+    padding-left: 6em;
 
+}
+.padding_for_u{
+    padding-top: 20px;
+}
+/*----------------------blaock 1.2--------------------------*/
+
+
+.block1_2{
+    background-color: rgba(255, 255, 255, 0.153);
+    
+}
+ul{
+    list-style-type: square;
+    direction: rtl;
+    padding-right: 70px;
+    padding-top: 50px;
+    font-size: 3.5em;
+    line-height: 60px;
+    padding-bottom: 31%;
+}
+/*----------------------blaock 2.2--------------------------*/
+
+.block2_2{
+    background-color:  rgba(0, 0, 0, 0.158);
+    text-align: right;
+}
+.padding_for_2_2{
+    padding: 13px 39px 0px 0px;
+}
+.long{
+    color:  rgba(0, 0, 0, 0.258);
+    font-size: 150%;
+}
+/*----------------------blaock 2.2--------------------------*/
+
+.back{
+    background-color: rgba(254, 251, 99, 0.758);
+}
+.font_size_le{ 
+    font-size: 250%;
+    
+}
+.space{
+    letter-spacing: 2px;
+    font-size: 200%;
+    line-height: 10px;
+    
+    
+
+}
+.padding_for_ler{
+    padding: 5px;
+}
+
+/*------------------------------block 3-------------------------------*/
+.red{
+    color: rgba(232,91,99,255);
+    font-size: 225%;
+}
+.coded{
+    color: rgba(113,113,113,255);
+    font-size:100%;
+}
+.bak{
+    background-color: rgba(246,248,247,255);
+}
+.padding_3{
+    padding: 5%;
 }
 
 
+.bk{
+    background-color: rgba(221,92,106,255);
+    width: 100%;
+    height: 10px;
+}
+.textbule{
+    color: rgb(0, 204, 255);
+}
+ .co{
+    font-size: 260%;
+    padding-top: 20px;
+    color: white;
+}
+
+.allcolor{
+    color:rgba(113,113,113,255)
+}
+
+.our{
+    color:  rgba(232,91,99,255);
+}
+.con{
+    color:rgba(113,113,113,100)
+}
+.padding_4{
+    padding: 6% 6% 0% 6%;
+}
+.padin{
+    padding-top: 4%;
+}
